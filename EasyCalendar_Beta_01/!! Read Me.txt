@@ -1,0 +1,51 @@
+*** FMEasyCalendar Demo Database ***
+
+EasyCalendar is distributed via a single FileMaker Pro database, which you will find in this zip file.
+
+For information about the demo database, see: http://fmeasycalendar.com/application/demo.php
+
+
+*** FileMaker Accounts ***
+
+There are three accounts setup in the EasyCalendar database:
+
+Account Name: Admin
+Password: HCWrKZLY/4
+Privilege Set: Full Access
+
+Account Name: EmployeeA
+Password: bX9Fn)GXKy
+Privilege Set: Employees
+
+Account Name: EmployeeB
+Password: xmu#9PDXiL
+Privilege Set: Employees
+
+
+*** Using the EasyCalendar Demo Database ***
+
+EasyCalendar can be used as a local database, shared using peer-to-peer networking, or hosted on a server running FileMaker Server 13 or later.
+
+To access the database, you can use any of the FileMaker 13 platform clients, including FileMaker Pro, FileMaker Pro Advanced, FileMaker Go, and FileMaker WebDirect.
+
+
+*** Wiring up EasyCalendar to Your Own Solution ***
+
+Interested in using EasyCalendar in your own FileMaker-based solution? You’ll find detailed "Setup and Configuration" instructions on the EasyCalendar Web site: http://fmeasycalendar.com/
+
+
+*** Technical Support ***
+
+For technical support, please refer to the EasyCalendar Web site: http://fmeasycalendar.com/
+
+
+
+*** Thanks ***
+
+Thanks for your interest in EasyCalendar.
+
+Tim Dietrich
+Web: http://timdietrich.me
+Twitter: @tdietrich
+
+

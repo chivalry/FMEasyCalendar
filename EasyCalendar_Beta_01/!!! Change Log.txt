@@ -1,0 +1,33 @@
+EasyCalendar Demo - Change Log
+
+Beta 1 (Posted 10-03-2014)
+• Initial public beta released.
+• Includes examples of all core calendar display functions.
+• Demo does not include examples of event times, multiple sources, etc.
+
+###
+
+Alpha 4 (09-27-2014)
+• Demo database branches properly based on client type.
+• Layouts modified slightly for fidelity between Pro, Go, and WD.
+
+###
+
+Alpha 3 (09-25-2014)
+• Added support for "day view."
+• Supports both standard and military time formats.
+
+###
+
+Alpha 2 (09-22-2014)
+• Full support for multiple calendars.
+• Added support for event text colors and styles.
+• Added support for multi-day events.
+• Added support for multiple users, business rules, etc.
+
+###
+
+Alpha 1 (09-19-2014)
+• Alpha release to small test group.
+• No support for multiple calendars.
+• Limited support for event text colors and styles.
